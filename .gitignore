@@ -21,6 +21,9 @@
 go.work
 go.work.sum
 
+# db-data
+db-data
+
 .DS_Store
 
 # executables

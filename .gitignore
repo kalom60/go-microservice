@@ -31,3 +31,4 @@ brokerApp
 frontApp
 authApp
 loggerServiceApp
+mailerApp

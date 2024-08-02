@@ -32,3 +32,4 @@ frontApp
 authApp
 loggerServiceApp
 mailerApp
+listenerApp
